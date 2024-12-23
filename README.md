@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm ZenGetsuu 👋
 
-<!--
-**ZenGetsuu/ZenGetsuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Student** at Curtin University  
+💻 **Aspiring Freelancer & Developer**  
+🚀 Exploring: Advanced web development, automation, and project management.  
+🌟 **Goal**: Building a freelancing business and starting my own IT consultancy. I want to build solutions and do the dirty work so it is easier for other people.  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages**: 🐍 Python, 🌐 JavaScript, ⚙️ C
+- **Tools & Technologies**: 🖥️ Git, 🔄 Flask, 🐧 Linux
+- **Workflow Expertise**: 🧩 Software development process, 📂 Version control, 🤝 Project teamwork
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- [C Maze Game](https://github.com/ZenGetsuu/c-maze-game) - A grid-based maze game with a snake, player controls, and DARK mode (Built using C and adhering to C89 standards).
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/aryaman-gaur/)
+- Email: [aryamangaur.business@gmail.com](mailto:aryamangaur.business@gmail.com)
+
+## Fun Fact
+I enjoy taking my motorbike Yamaha R6 to the track and applying the same focus and discipline to my coding projects!
